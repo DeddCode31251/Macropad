@@ -6,6 +6,9 @@ A Tiny Keyboard made using Kicad
 <img width="1914" height="970" alt="Screenshot From 2026-10-30 19-29-57" src="https://github.com/user-attachments/assets/140f7c13-eff2-4f09-b6f8-240fe5e67339" />
 
 # Walkthrough
+``` bash
+https://youtu.be/AikLhUi4WYI?si=G5t8bKqsRGfVw-42
+```
 
 # Author
 Deadcode
@@ -14,5 +17,4 @@ Deadcode
 MIT
 
 # Resources
-
 https://hackpad.hackclub.com/guide
